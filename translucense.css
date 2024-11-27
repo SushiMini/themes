@@ -4767,31 +4767,6 @@ body {
 
 /*
  *
- *  SERVER FOLDERS
- *
- */
-.expandedFolderBackground_bc7085 {
-  background-color: var(--server-folder-color);
-  border-radius: 16px 16px 24px 24px;
-}
-
-.folder_bc7085 {
-  background-color: transparent;
-}
-.folder_bc7085.hover_bc7085 {
-  background-color: var(--server-folder-color);
-}
-
-[style*="background-color: rgba(88, 101, 242, 0.4)"].folderIconWrapper_bc7085 {
-  background-color: hsla(var(--accent-hsl), 0.4) !important;
-}
-
-.expandedFolderIconWrapper_bc7085 svg[style="color: rgb(88, 101, 242);"] {
-  color: hsla(var(--accent-hsl), var(--accent-opacity)) !important;
-}
-
-/*
- *
  *  SERVERS LIST
  *
  */
